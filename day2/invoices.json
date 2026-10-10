@@ -1,0 +1,26 @@
+[
+    {
+        "invoice_id": "INV-101",
+        "vendor": "Time Ltd",
+        "amount": 80000,
+        "status": "PENDING"
+    },
+    {
+        "invoice_id": "INV-102",
+        "vendor": "Test Corp",
+        "amount": 100500,
+        "status": "PAID"
+    },
+    {
+        "invoice_id": "INV-103",
+        "vendor": "GreatIndia Ltd",
+        "amount": 45000,
+        "status": "REJECTED"
+    },
+    {
+        "invoice_id": "INV-104",
+        "vendor": "Think Ltd",
+        "amount": 60000,
+        "status": "PAID"
+    }
+]
