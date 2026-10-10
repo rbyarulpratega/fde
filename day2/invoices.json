@@ -16,11 +16,5 @@
         "vendor": "GreatIndia Ltd",
         "amount": 45000,
         "status": "REJECTED"
-    },
-    {
-        "invoice_id": "INV-104",
-        "vendor": "Think Ltd",
-        "amount": 60000,
-        "status": "PAID"
     }
 ]
